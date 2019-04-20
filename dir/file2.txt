@@ -1,0 +1,2 @@
+This is a file inside a directory
+edit me
